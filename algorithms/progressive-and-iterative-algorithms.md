@@ -54,7 +54,9 @@ And finally, we can compute the alignment at the root node of the tree, by align
 ***The alignment at the root node is our multiple sequence alignment.***
 
 <br />
+
 ---
+
 <br />
 
 ## Iterative alignment:
